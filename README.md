@@ -14,3 +14,6 @@ Rename all the files and name them as A00001 and so on
 
 tokken_calc.py
 Calculate tokkens used in a json
+
+convert_pdfs.py
+Converts pdfs to txt files
